@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.footy_fix",
+      "sha256_cert_fingerprints": [
+        "F2:1C:52:A4:25:AC:E9:96:E5:3D:5B:08:37:61:A1:04:AE:22:A2:08:C5:27:3E:F8:F3:A0:E0:BE:9E:47:2A:A3"
+      ]
+    }
+  }
+]
