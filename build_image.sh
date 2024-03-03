@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE_NAME=kaido/nginx:24.03.03
+IMAGE_NAME=kaido23/nginx:24.03.03
 
 docker buildx build \
     --no-cache \
